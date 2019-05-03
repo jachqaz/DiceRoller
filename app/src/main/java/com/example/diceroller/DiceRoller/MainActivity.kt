@@ -1,8 +1,9 @@
-package com.example.diceroller
+package com.example.diceroller.DiceRoller
 
 import android.os.Bundle
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
+import com.example.diceroller.R
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 

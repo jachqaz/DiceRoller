@@ -2,4 +2,41 @@
     <string name="app_name">DiceRoller</string>
     <string name="roll">Roll</string>
     <string name="_1">1</string>
+    <string name="name">Alex Haecky</string>
+    <string name="yellow_star">Yello star</string>
+    <string name="string_bio">Lorem ipsum dolor sit amet consectetur adipiscing elit posuere, dictumst sapien aenean
+        arcu etiam litora elementum, interdum magnis risus scelerisque ridiculus lacus vel. Augue leo congue metus mus
+        curabitur non at penatibus dictumst maecenas, dignissim litora fringilla mauris elementum pharetra habitasse
+        justo aliquet netus, et nec quis fames convallis class duis sagittis sapien. Velit vulputate elementum hendrerit
+        rhoncus lacus eleifend porta facilisis, tempor laoreet ullamcorper tempus fames quis integer egestas, turpis
+        eget ante imperdiet est dapibus nibh. Facilisis neque donec sed vitae vel fames nulla enim conubia ullamcorper
+        posuere libero ultricies integer pharetra, potenti torquent ut nisl curae cum dis class in feugiat tristique
+        taciti laoreet. Montes aenean tristique risus ac luctus nisi dui, sed ad tempor condimentum eleifend mauris vel,
+        nulla mollis hendrerit porttitor platea vulputate. Nullam venenatis facilisi habitant ridiculus sagittis mollis
+        phasellus vivamus senectus, est semper pretium nec mattis porttitor arcu ligula tristique, fermentum in ut
+        turpis ornare suscipit feugiat enim.
+        Lorem ipsum dolor sit amet consectetur adipiscing elit posuere, dictumst sapien aenean
+        arcu etiam litora elementum, interdum magnis risus scelerisque ridiculus lacus vel. Augue leo congue metus mus
+        curabitur non at penatibus dictumst maecenas, dignissim litora fringilla mauris elementum pharetra habitasse
+        justo aliquet netus, et nec quis fames convallis class duis sagittis sapien. Velit vulputate elementum hendrerit
+        rhoncus lacus eleifend porta facilisis, tempor laoreet ullamcorper tempus fames quis integer egestas, turpis
+        eget ante imperdiet est dapibus nibh. Facilisis neque donec sed vitae vel fames nulla enim conubia ullamcorper
+        posuere libero ultricies integer pharetra, potenti torquent ut nisl curae cum dis class in feugiat tristique
+        taciti laoreet. Montes aenean tristique risus ac luctus nisi dui, sed ad tempor condimentum eleifend mauris vel,
+        nulla mollis hendrerit porttitor platea vulputate. Nullam venenatis facilisi habitant ridiculus sagittis mollis
+        phasellus vivamus senectus, est semper pretium nec mattis porttitor arcu ligula tristique, fermentum in ut
+        turpis ornare suscipit feugiat enim.
+        Lorem ipsum dolor sit amet consectetur adipiscing elit posuere, dictumst sapien aenean
+        arcu etiam litora elementum, interdum magnis risus scelerisque ridiculus lacus vel. Augue leo congue metus mus
+        curabitur non at penatibus dictumst maecenas, dignissim litora fringilla mauris elementum pharetra habitasse
+        justo aliquet netus, et nec quis fames convallis class duis sagittis sapien. Velit vulputate elementum hendrerit
+        rhoncus lacus eleifend porta facilisis, tempor laoreet ullamcorper tempus fames quis integer egestas, turpis
+        eget ante imperdiet est dapibus nibh. Facilisis neque donec sed vitae vel fames nulla enim conubia ullamcorper
+        posuere libero ultricies integer pharetra, potenti torquent ut nisl curae cum dis class in feugiat tristique
+        taciti laoreet. Montes aenean tristique risus ac luctus nisi dui, sed ad tempor condimentum eleifend mauris vel,
+        nulla mollis hendrerit porttitor platea vulputate. Nullam venenatis facilisi habitant ridiculus sagittis mollis
+        phasellus vivamus senectus, est semper pretium nec mattis porttitor arcu ligula tristique, fermentum in ut
+        turpis ornare suscipit feugiat enim.
+    </string>
+    <string name="what_is_your_nickname">What is your NickName?</string>
 </resources>
